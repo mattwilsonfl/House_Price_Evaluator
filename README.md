@@ -1,2 +1,2 @@
 # House_Price_Evaluator
-Python program that utilizes machine learning to evaluate house prices to a reasonably low error rate with grid search for hyper parameter optimization. Download for housing data set can be found here:  https://www.kaggle.com/anthonypino/melbourne-housing-market/  NOTE: Due to its high processing requirement, omitting the code pertaining to grid search will greatly increase the programs execution time.
+Machine Learning. Python program that utilizes gradient boosting to evaluate house prices to a reasonably low error rate with grid search for hyper-parameter optimization. 
